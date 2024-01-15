@@ -1,5 +1,6 @@
 # Connect 4 game
-<img src="https://github.com/ikteng/connect-4-game/blob/main/connect_game_image.webp" alt="Connect 4 game image" style="width:500px;height:600px;">
+<img src="https://github.com/ikteng/connect-4-game/blob/main/connect_game_image.webp" alt="Connect 4 game image" style="width:100px;height:200px;">
+
 ### Description
 Connect 4 is a classic two-player connection game played on a 6x7 grid, where players take turns dropping discs of their chosen color into columns. 
 
